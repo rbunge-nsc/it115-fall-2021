@@ -1,4 +1,4 @@
-# hello-world
+# Class Practice Repo
 - this repository is for class demonstrations.
 - from time to time we will clone a copy of the class project to this repo.
 - the demos in this space may break the code.
