@@ -1,0 +1,57 @@
+Some Core Skills Everyone Needs for this Week's Work:
+create a GitHub account
+create repositories
+invite collaborators
+add files to repositories
+Practice in Class
+
+Group 1
+Carli
+Glenn
+Dee Dee (Diane)
+Ozzy (Asfandyar)
+Abe (Jose)
+
+Group 2
+Justin
+Seble
+Linh
+Malachi
+Chris
+
+Group 3
+Jesse
+Nickolas
+Sarah
+Eamon
+James
+
+Group 4
+Al
+Kattiana
+Meseret
+Seth
+Florian
+
+Phase One
+each group must pick its leader
+the leader will create a group project repository on his/her GitHub account
+the leader will invite all other group members to collaborate on that repository
+each group member will contribute one of more files to the group's repository
+the group leader manages this process 
+Phase Two
+I will invite each group leader to collaborate on https://github.com/rbunge-nsc/hello-world
+
+Each group leader will upload his/her team's collective files to the hello-world class repository
+I will manage this process and take corrective actions when needed (I'm the "Product Owner" of hello-world.)
+Summary
+in each group, code goes to the repository under the direction of the leader
+for the larger class project, each group's code comes from the leader to the class repository under my direction.
+Assignment 2: Build a Wiki as a Team
+someone in each group needs to start a wiki on his/her GitHub account
+this does NOT need to be the same person as the leader for Practice in Class
+the wiki host invites the rest of the team to collaborate in the wiki's repository
+each team member needs to write at least one page
+following the assignment instructions, each student is going to send me the URL where his/her wiki page can be found
+this implies that members of a team are each going to send me the same URL their team is using for the wiki. This is expected.
+In each student's individual Dropbox submission for this assignment, she/he is going make a statement highlighting her/his wiki page contribution to the overall group wiki.
