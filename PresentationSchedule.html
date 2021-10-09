@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Presentation Scheduler</h2>
+
+
+<p id="demo"></p>
+
+<script>
+var output = ""
+var group = [];
+var time = ["6:30", "7:00", "7:30", "8:00"];
+
+while (group.length <4){
+var selection = Math.ceil(Math.random()* 4);
+//group.push(selection);
+if (!group.includes(selection)){group.push(selection);}
+};
+
+for (i = 0; i<4; i++) {
+output += time[i] + "  Group Number  " + group[i] + "</br>";
+}
+
+document.getElementById("demo").innerHTML = output;
+</script>
+
+</body>
+</html>

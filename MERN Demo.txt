@@ -1,0 +1,8 @@
+MERN Demo
+34.202.162.194
+
+XAMPP
+3.82.160.59
+phpmyadmin:
+rbunge
+test*&@!
